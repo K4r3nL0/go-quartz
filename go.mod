@@ -1,3 +1,1 @@
-module github.com/KGLope/quartz
-
-go 1.16
+module github.com/K4r3nL0/go-quartz

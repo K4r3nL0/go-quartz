@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/KGLope/quartz"
+	"github.com/K4r3nL0/go-quartz/quartz"
 )
 
 //demo main
